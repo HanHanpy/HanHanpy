@@ -1,2 +1,2 @@
 <a href="https://github.com/HanHanpy/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=HanHanpy&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="Jiu's github stats"/></a>
-<a href="https://github.com/anuraghazra/convoychat"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylviapap&layout=compact&theme=buefy" alt="Jiu's top languages"/></a><br><br />
+<a href="https://github.com/anuraghazra/convoychat"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanHanpy&layout=compact&theme=buefy" alt="Jiu's top languages"/></a><br><br />
